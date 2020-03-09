@@ -1,3 +1,4 @@
+/*Cracking-the-Coding-Interview 1.4 solution*/ 
 #include<stdio.h> 
 #include<string.h> 
 
