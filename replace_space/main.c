@@ -1,3 +1,5 @@
+/*Cracking-the-Coding-Interview 1.3 solution*/ 
+
 #include<stdio.h> 
 #include<string.h> 
 #include<stdlib.h> 
